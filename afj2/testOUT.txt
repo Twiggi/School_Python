@@ -1,0 +1,22 @@
+7
+3
+['q1', 'q2', 'q7', 'q3', 'q12', 'q8']
+['q9', 'q10']
+['q13', 'q4', 'q14', 'q5', 'q15']  F
+['q11', 'q12', 'q8']
+['q16', 'q15']  F
+['q6', 'q3', 'q12']
+['q13', 'q14', 'q15']  F
+a
+b
+c
+Odkial = ['q1', 'q2', 'q7', 'q3', 'q12', 'q8'], kam = ['q9', 'q10'], value = c
+Odkial = ['q1', 'q2', 'q7', 'q3', 'q12', 'q8'], kam = ['q13', 'q4', 'q14', 'q5', 'q15'], value = b
+Odkial = ['q9', 'q10'], kam = ['q11', 'q12', 'q8'], value = a
+Odkial = ['q13', 'q4', 'q14', 'q5', 'q15'], kam = ['q16', 'q15'], value = b
+Odkial = ['q13', 'q4', 'q14', 'q5', 'q15'], kam = ['q6', 'q3', 'q12'], value = a
+Odkial = ['q11', 'q12', 'q8'], kam = ['q9', 'q10'], value = c
+Odkial = ['q11', 'q12', 'q8'], kam = ['q13', 'q14', 'q15'], value = b
+Odkial = ['q16', 'q15'], kam = ['q16', 'q15'], value = b
+Odkial = ['q6', 'q3', 'q12'], kam = ['q13', 'q4', 'q14', 'q5', 'q15'], value = b
+Odkial = ['q13', 'q14', 'q15'], kam = ['q16', 'q15'], value = b

@@ -1,0 +1,11 @@
+JUMP,3
+NOP
+=,i,17
+WRITE,i
+*,i,7,swag
+WRITE,swag
+WRITE,i
+
+147.175.106.116:81/biometria2019
+Cannyho detector (sobelov det.)
+houghove kruhy

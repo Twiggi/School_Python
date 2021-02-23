@@ -1,0 +1,10 @@
+2
+2
+q0  IF
+['q0', 'q1']  F
+a
+b
+Odkial = ['q0'], kam = ['q0', 'q1'], value = a
+Odkial = ['q0'], kam = ['q0'], value = b
+Odkial = ['q0', 'q1'], kam = ['q0', 'q1'], value = a
+Odkial = ['q0', 'q1'], kam = ['q0', 'q1'], value = b
